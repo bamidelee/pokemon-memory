@@ -1,0 +1,28 @@
+.loadingBody{
+    background-color:  rgb(230 63 63);
+    height: 100vh;
+    display: grid;
+    align-content: center;
+    justify-content: center;
+}
+.loadingLevel{
+    text-align: center;
+    font-size: 3rem;
+    display: flex;
+    gap: 2px;
+    align-items: flex-end;
+}
+.loadingLevel>span{
+    padding: 3px;
+    align-self: flex-end;
+    height: 3px;
+    width: 3px;
+    border-radius: 20px;
+    animation-name: bounce;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+}
+@keyframes bounce{
+    from{transform: translateY(-10px);}
+    to{transform: translateY(-20px);}
+}

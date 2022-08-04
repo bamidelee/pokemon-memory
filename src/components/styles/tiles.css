@@ -1,0 +1,17 @@
+.image{
+    box-shadow: -2px -1px 7px  rgb(230 63 63), 2px 2px 7px rgb(230 63 63);
+    height: 10rem;
+    width: 8rem;
+    border-radius: 10px;
+}
+.image:hover{
+    transform: translateY(2px);
+    box-shadow: -2px -1px 7px 3px rgb(230 63 63), 2px 2px 7px rgb(230 63 63);
+}
+.imageContainer{
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+

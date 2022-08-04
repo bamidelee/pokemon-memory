@@ -1,0 +1,16 @@
+.over{
+    background-color: rgb(41, 40, 40);
+    height: 100vh;
+    display: grid;
+    justify-content: center;
+    align-content: center;
+    color: rgb(182, 176, 176);
+    text-align: center;
+}
+.overBtn{
+    margin: .5rem;
+}
+
+.overBtn:hover{
+    transform: translateY(2px);
+}

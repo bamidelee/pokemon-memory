@@ -1,0 +1,25 @@
+header{
+    display: grid;
+    grid-template-columns: 60% 40%;
+    background-color: rgb(230, 63, 63);
+}
+.score{
+    justify-self: right;
+    justify-self: center;
+    align-self: center;
+    color: white;
+}
+.logo{
+    display: flex;
+    color: rgb(233, 233, 118);
+}
+.logoIcon{
+    height: 4rem;
+    width: 4rem;
+}
+.level{
+    margin: 1rem auto;
+    width: 4rem;
+    color: rgb(230, 63, 63);
+    font-size: 2rem;
+}
