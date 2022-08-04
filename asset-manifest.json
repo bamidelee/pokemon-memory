@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/pokemon-memory/static/css/main.215a1231.css",
+    "main.css": "/pokemon-memory/static/css/main.d2943641.css",
     "main.js": "/pokemon-memory/static/js/main.776d33a0.js",
     "static/media/load.gif": "/pokemon-memory/static/media/load.8cce5b9dd32300c162b1.gif",
     "index.html": "/pokemon-memory/index.html",
-    "main.215a1231.css.map": "/pokemon-memory/static/css/main.215a1231.css.map",
+    "main.d2943641.css.map": "/pokemon-memory/static/css/main.d2943641.css.map",
     "main.776d33a0.js.map": "/pokemon-memory/static/js/main.776d33a0.js.map"
   },
   "entrypoints": [
-    "static/css/main.215a1231.css",
+    "static/css/main.d2943641.css",
     "static/js/main.776d33a0.js"
   ]
 }
